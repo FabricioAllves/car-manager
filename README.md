@@ -73,7 +73,7 @@ npm start
 
 ## 📱 Screenshots
 
-<img src="https://github.com/FabricioAllves/car-manager/blob/main/assets/screenshot.png" alt="Screenshot" />
+<img src="https://github.com/FabricioAllves/car-manager/blob/main/assets/images/img1.png" alt="Screenshot" />
 
 
 ## 📝 Licença
