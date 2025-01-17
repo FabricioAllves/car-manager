@@ -72,12 +72,12 @@ npm start
 ```
 
 ## 📱 Screenshots
-
-<img width="300" src="https://github.com/FabricioAllves/car-manager/blob/main/assets/images/img1.png" alt="Screenshot" />
-<img width="300" src="https://github.com/FabricioAllves/car-manager/blob/main/assets/images/img2.png" alt="Screenshot" />
-<img width="300" src="https://github.com/FabricioAllves/car-manager/blob/main/assets/images/img3.png" alt="Screenshot" />
-<img width="300" src="https://github.com/FabricioAllves/car-manager/blob/main/assets/images/img4.png" alt="Screenshot" />
-
+<div align="center" style="display: flex; flex-direction: row; gap: 10px; flex-wrap: wrap; justify-content: center;">
+<img width="200" src="https://github.com/FabricioAllves/car-manager/blob/main/assets/images/img1.png" alt="Screenshot" />
+<img width="200" src="https://github.com/FabricioAllves/car-manager/blob/main/assets/images/img2.png" alt="Screenshot" />
+<img width="200" src="https://github.com/FabricioAllves/car-manager/blob/main/assets/images/img3.png" alt="Screenshot" />
+<img width="200" src="https://github.com/FabricioAllves/car-manager/blob/main/assets/images/img4.png" alt="Screenshot" />
+</div>
 
 ## 📝 Licença
 
