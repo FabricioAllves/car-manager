@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🚗 Car Manager</h1>
+  <h1>🚗 Manager Car</h1>
   <p>Aplicativo de gerenciamento de carros desenvolvido com React Native e Expo</p>
 </div>
 
@@ -64,7 +64,7 @@ O projeto segue uma arquitetura modular e escalável:
 
 ```bash
 Clonar o repositório
-git clone https://github.com/FabricioAllves/car-manager.git
+git clone https://github.com/FabricioAllves/manager-car.git
 Instalar dependências
 npm install
 Iniciar o projeto
